@@ -97,14 +97,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>union bank</name>
-	      <url>http://3.111.41.47:8081/repository/union-bank-release/</url>
+	      <name>vasumaven-release</name>
+	      <url>http://3.111.32.52:8081/repository/vasumaven-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>maven-web-app</name>
-	      <url>http://52.66.252.11:8081/repository/maven-web-app-snapshort/</url>
+	      <name>vasumaven-snapshot</name>
+	      <url>http://3.111.32.52:8081/repository/vasumaven-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
